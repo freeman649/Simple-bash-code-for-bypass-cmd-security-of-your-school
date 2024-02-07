@@ -1,0 +1,1 @@
+# Simple-bash-code-for-bypass-cmd-security-of-your-school
